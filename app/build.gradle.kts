@@ -78,4 +78,6 @@ dependencies {
     Sibling modules adapt popular serialization libraries for your convenience.
     */
     implementation("androidx.compose.runtime:runtime-livedata:1.6.8")
+    //image loader
+    implementation("io.coil-kt:coil-compose:2.7.0")
 }
